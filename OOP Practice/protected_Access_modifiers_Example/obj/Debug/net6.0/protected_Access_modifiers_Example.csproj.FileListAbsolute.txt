@@ -1,0 +1,15 @@
+F:\web development\C# and .Net core\C# program\protected_Access_modifiers_Example\protected_Access_modifiers_Example\obj\Debug\net6.0\protected_Access_modifiers_Example.csproj.AssemblyReference.cache
+F:\web development\C# and .Net core\C# program\protected_Access_modifiers_Example\protected_Access_modifiers_Example\obj\Debug\net6.0\protected_Access_modifiers_Example.GeneratedMSBuildEditorConfig.editorconfig
+F:\web development\C# and .Net core\C# program\protected_Access_modifiers_Example\protected_Access_modifiers_Example\obj\Debug\net6.0\protected_Access_modifiers_Example.AssemblyInfoInputs.cache
+F:\web development\C# and .Net core\C# program\protected_Access_modifiers_Example\protected_Access_modifiers_Example\obj\Debug\net6.0\protected_Access_modifiers_Example.AssemblyInfo.cs
+F:\web development\C# and .Net core\C# program\protected_Access_modifiers_Example\protected_Access_modifiers_Example\obj\Debug\net6.0\protected_Access_modifiers_Example.csproj.CoreCompileInputs.cache
+F:\web development\C# and .Net core\C# program\protected_Access_modifiers_Example\protected_Access_modifiers_Example\bin\Debug\net6.0\protected_Access_modifiers_Example.exe
+F:\web development\C# and .Net core\C# program\protected_Access_modifiers_Example\protected_Access_modifiers_Example\bin\Debug\net6.0\protected_Access_modifiers_Example.deps.json
+F:\web development\C# and .Net core\C# program\protected_Access_modifiers_Example\protected_Access_modifiers_Example\bin\Debug\net6.0\protected_Access_modifiers_Example.runtimeconfig.json
+F:\web development\C# and .Net core\C# program\protected_Access_modifiers_Example\protected_Access_modifiers_Example\bin\Debug\net6.0\protected_Access_modifiers_Example.dll
+F:\web development\C# and .Net core\C# program\protected_Access_modifiers_Example\protected_Access_modifiers_Example\bin\Debug\net6.0\protected_Access_modifiers_Example.pdb
+F:\web development\C# and .Net core\C# program\protected_Access_modifiers_Example\protected_Access_modifiers_Example\obj\Debug\net6.0\protected_Access_modifiers_Example.dll
+F:\web development\C# and .Net core\C# program\protected_Access_modifiers_Example\protected_Access_modifiers_Example\obj\Debug\net6.0\refint\protected_Access_modifiers_Example.dll
+F:\web development\C# and .Net core\C# program\protected_Access_modifiers_Example\protected_Access_modifiers_Example\obj\Debug\net6.0\protected_Access_modifiers_Example.pdb
+F:\web development\C# and .Net core\C# program\protected_Access_modifiers_Example\protected_Access_modifiers_Example\obj\Debug\net6.0\protected_Access_modifiers_Example.genruntimeconfig.cache
+F:\web development\C# and .Net core\C# program\protected_Access_modifiers_Example\protected_Access_modifiers_Example\obj\Debug\net6.0\ref\protected_Access_modifiers_Example.dll

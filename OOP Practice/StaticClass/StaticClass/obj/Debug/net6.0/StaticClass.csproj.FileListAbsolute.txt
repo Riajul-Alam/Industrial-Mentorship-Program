@@ -1,0 +1,15 @@
+F:\1.web development\C# and .Net core\C# program\StaticClass\StaticClass\bin\Debug\net6.0\StaticClass.exe
+F:\1.web development\C# and .Net core\C# program\StaticClass\StaticClass\bin\Debug\net6.0\StaticClass.deps.json
+F:\1.web development\C# and .Net core\C# program\StaticClass\StaticClass\bin\Debug\net6.0\StaticClass.runtimeconfig.json
+F:\1.web development\C# and .Net core\C# program\StaticClass\StaticClass\bin\Debug\net6.0\StaticClass.dll
+F:\1.web development\C# and .Net core\C# program\StaticClass\StaticClass\bin\Debug\net6.0\StaticClass.pdb
+F:\1.web development\C# and .Net core\C# program\StaticClass\StaticClass\obj\Debug\net6.0\StaticClass.csproj.AssemblyReference.cache
+F:\1.web development\C# and .Net core\C# program\StaticClass\StaticClass\obj\Debug\net6.0\StaticClass.GeneratedMSBuildEditorConfig.editorconfig
+F:\1.web development\C# and .Net core\C# program\StaticClass\StaticClass\obj\Debug\net6.0\StaticClass.AssemblyInfoInputs.cache
+F:\1.web development\C# and .Net core\C# program\StaticClass\StaticClass\obj\Debug\net6.0\StaticClass.AssemblyInfo.cs
+F:\1.web development\C# and .Net core\C# program\StaticClass\StaticClass\obj\Debug\net6.0\StaticClass.csproj.CoreCompileInputs.cache
+F:\1.web development\C# and .Net core\C# program\StaticClass\StaticClass\obj\Debug\net6.0\StaticClass.dll
+F:\1.web development\C# and .Net core\C# program\StaticClass\StaticClass\obj\Debug\net6.0\refint\StaticClass.dll
+F:\1.web development\C# and .Net core\C# program\StaticClass\StaticClass\obj\Debug\net6.0\StaticClass.pdb
+F:\1.web development\C# and .Net core\C# program\StaticClass\StaticClass\obj\Debug\net6.0\StaticClass.genruntimeconfig.cache
+F:\1.web development\C# and .Net core\C# program\StaticClass\StaticClass\obj\Debug\net6.0\ref\StaticClass.dll

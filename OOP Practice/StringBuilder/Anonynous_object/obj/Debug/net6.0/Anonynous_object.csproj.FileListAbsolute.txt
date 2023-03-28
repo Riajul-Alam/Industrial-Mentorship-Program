@@ -1,0 +1,15 @@
+F:\1.web development\C# and .Net core\C# program\StringBuilder\Anonynous_object\bin\Debug\net6.0\Anonynous_object.exe
+F:\1.web development\C# and .Net core\C# program\StringBuilder\Anonynous_object\bin\Debug\net6.0\Anonynous_object.deps.json
+F:\1.web development\C# and .Net core\C# program\StringBuilder\Anonynous_object\bin\Debug\net6.0\Anonynous_object.runtimeconfig.json
+F:\1.web development\C# and .Net core\C# program\StringBuilder\Anonynous_object\bin\Debug\net6.0\Anonynous_object.dll
+F:\1.web development\C# and .Net core\C# program\StringBuilder\Anonynous_object\bin\Debug\net6.0\Anonynous_object.pdb
+F:\1.web development\C# and .Net core\C# program\StringBuilder\Anonynous_object\obj\Debug\net6.0\Anonynous_object.csproj.AssemblyReference.cache
+F:\1.web development\C# and .Net core\C# program\StringBuilder\Anonynous_object\obj\Debug\net6.0\Anonynous_object.GeneratedMSBuildEditorConfig.editorconfig
+F:\1.web development\C# and .Net core\C# program\StringBuilder\Anonynous_object\obj\Debug\net6.0\Anonynous_object.AssemblyInfoInputs.cache
+F:\1.web development\C# and .Net core\C# program\StringBuilder\Anonynous_object\obj\Debug\net6.0\Anonynous_object.AssemblyInfo.cs
+F:\1.web development\C# and .Net core\C# program\StringBuilder\Anonynous_object\obj\Debug\net6.0\Anonynous_object.csproj.CoreCompileInputs.cache
+F:\1.web development\C# and .Net core\C# program\StringBuilder\Anonynous_object\obj\Debug\net6.0\Anonynous_object.dll
+F:\1.web development\C# and .Net core\C# program\StringBuilder\Anonynous_object\obj\Debug\net6.0\refint\Anonynous_object.dll
+F:\1.web development\C# and .Net core\C# program\StringBuilder\Anonynous_object\obj\Debug\net6.0\Anonynous_object.pdb
+F:\1.web development\C# and .Net core\C# program\StringBuilder\Anonynous_object\obj\Debug\net6.0\Anonynous_object.genruntimeconfig.cache
+F:\1.web development\C# and .Net core\C# program\StringBuilder\Anonynous_object\obj\Debug\net6.0\ref\Anonynous_object.dll

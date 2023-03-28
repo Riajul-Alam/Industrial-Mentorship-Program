@@ -1,0 +1,15 @@
+F:\1.web development\C# and .Net core\C# program\StringBuilder\Default_keyword\bin\Debug\net6.0\Default_keyword.exe
+F:\1.web development\C# and .Net core\C# program\StringBuilder\Default_keyword\bin\Debug\net6.0\Default_keyword.deps.json
+F:\1.web development\C# and .Net core\C# program\StringBuilder\Default_keyword\bin\Debug\net6.0\Default_keyword.runtimeconfig.json
+F:\1.web development\C# and .Net core\C# program\StringBuilder\Default_keyword\bin\Debug\net6.0\Default_keyword.dll
+F:\1.web development\C# and .Net core\C# program\StringBuilder\Default_keyword\bin\Debug\net6.0\Default_keyword.pdb
+F:\1.web development\C# and .Net core\C# program\StringBuilder\Default_keyword\obj\Debug\net6.0\Default_keyword.csproj.AssemblyReference.cache
+F:\1.web development\C# and .Net core\C# program\StringBuilder\Default_keyword\obj\Debug\net6.0\Default_keyword.GeneratedMSBuildEditorConfig.editorconfig
+F:\1.web development\C# and .Net core\C# program\StringBuilder\Default_keyword\obj\Debug\net6.0\Default_keyword.AssemblyInfoInputs.cache
+F:\1.web development\C# and .Net core\C# program\StringBuilder\Default_keyword\obj\Debug\net6.0\Default_keyword.AssemblyInfo.cs
+F:\1.web development\C# and .Net core\C# program\StringBuilder\Default_keyword\obj\Debug\net6.0\Default_keyword.csproj.CoreCompileInputs.cache
+F:\1.web development\C# and .Net core\C# program\StringBuilder\Default_keyword\obj\Debug\net6.0\Default_keyword.dll
+F:\1.web development\C# and .Net core\C# program\StringBuilder\Default_keyword\obj\Debug\net6.0\refint\Default_keyword.dll
+F:\1.web development\C# and .Net core\C# program\StringBuilder\Default_keyword\obj\Debug\net6.0\Default_keyword.pdb
+F:\1.web development\C# and .Net core\C# program\StringBuilder\Default_keyword\obj\Debug\net6.0\Default_keyword.genruntimeconfig.cache
+F:\1.web development\C# and .Net core\C# program\StringBuilder\Default_keyword\obj\Debug\net6.0\ref\Default_keyword.dll
