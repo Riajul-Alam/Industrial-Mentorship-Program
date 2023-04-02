@@ -1,0 +1,15 @@
+F:\1.web development\C# and .Net core\C# program\PolymorphismExample\PolymorphismExample\bin\Debug\net6.0\PolymorphismExample.exe
+F:\1.web development\C# and .Net core\C# program\PolymorphismExample\PolymorphismExample\bin\Debug\net6.0\PolymorphismExample.deps.json
+F:\1.web development\C# and .Net core\C# program\PolymorphismExample\PolymorphismExample\bin\Debug\net6.0\PolymorphismExample.runtimeconfig.json
+F:\1.web development\C# and .Net core\C# program\PolymorphismExample\PolymorphismExample\bin\Debug\net6.0\PolymorphismExample.dll
+F:\1.web development\C# and .Net core\C# program\PolymorphismExample\PolymorphismExample\bin\Debug\net6.0\PolymorphismExample.pdb
+F:\1.web development\C# and .Net core\C# program\PolymorphismExample\PolymorphismExample\obj\Debug\net6.0\PolymorphismExample.csproj.AssemblyReference.cache
+F:\1.web development\C# and .Net core\C# program\PolymorphismExample\PolymorphismExample\obj\Debug\net6.0\PolymorphismExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\1.web development\C# and .Net core\C# program\PolymorphismExample\PolymorphismExample\obj\Debug\net6.0\PolymorphismExample.AssemblyInfoInputs.cache
+F:\1.web development\C# and .Net core\C# program\PolymorphismExample\PolymorphismExample\obj\Debug\net6.0\PolymorphismExample.AssemblyInfo.cs
+F:\1.web development\C# and .Net core\C# program\PolymorphismExample\PolymorphismExample\obj\Debug\net6.0\PolymorphismExample.csproj.CoreCompileInputs.cache
+F:\1.web development\C# and .Net core\C# program\PolymorphismExample\PolymorphismExample\obj\Debug\net6.0\PolymorphismExample.dll
+F:\1.web development\C# and .Net core\C# program\PolymorphismExample\PolymorphismExample\obj\Debug\net6.0\refint\PolymorphismExample.dll
+F:\1.web development\C# and .Net core\C# program\PolymorphismExample\PolymorphismExample\obj\Debug\net6.0\PolymorphismExample.pdb
+F:\1.web development\C# and .Net core\C# program\PolymorphismExample\PolymorphismExample\obj\Debug\net6.0\PolymorphismExample.genruntimeconfig.cache
+F:\1.web development\C# and .Net core\C# program\PolymorphismExample\PolymorphismExample\obj\Debug\net6.0\ref\PolymorphismExample.dll

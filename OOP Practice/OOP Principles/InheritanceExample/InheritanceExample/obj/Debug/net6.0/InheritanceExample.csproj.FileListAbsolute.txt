@@ -1,0 +1,15 @@
+F:\1.web development\C# and .Net core\C# program\InheritanceExample\InheritanceExample\bin\Debug\net6.0\InheritanceExample.exe
+F:\1.web development\C# and .Net core\C# program\InheritanceExample\InheritanceExample\bin\Debug\net6.0\InheritanceExample.deps.json
+F:\1.web development\C# and .Net core\C# program\InheritanceExample\InheritanceExample\bin\Debug\net6.0\InheritanceExample.runtimeconfig.json
+F:\1.web development\C# and .Net core\C# program\InheritanceExample\InheritanceExample\bin\Debug\net6.0\InheritanceExample.dll
+F:\1.web development\C# and .Net core\C# program\InheritanceExample\InheritanceExample\bin\Debug\net6.0\InheritanceExample.pdb
+F:\1.web development\C# and .Net core\C# program\InheritanceExample\InheritanceExample\obj\Debug\net6.0\InheritanceExample.csproj.AssemblyReference.cache
+F:\1.web development\C# and .Net core\C# program\InheritanceExample\InheritanceExample\obj\Debug\net6.0\InheritanceExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\1.web development\C# and .Net core\C# program\InheritanceExample\InheritanceExample\obj\Debug\net6.0\InheritanceExample.AssemblyInfoInputs.cache
+F:\1.web development\C# and .Net core\C# program\InheritanceExample\InheritanceExample\obj\Debug\net6.0\InheritanceExample.AssemblyInfo.cs
+F:\1.web development\C# and .Net core\C# program\InheritanceExample\InheritanceExample\obj\Debug\net6.0\InheritanceExample.csproj.CoreCompileInputs.cache
+F:\1.web development\C# and .Net core\C# program\InheritanceExample\InheritanceExample\obj\Debug\net6.0\InheritanceExample.dll
+F:\1.web development\C# and .Net core\C# program\InheritanceExample\InheritanceExample\obj\Debug\net6.0\refint\InheritanceExample.dll
+F:\1.web development\C# and .Net core\C# program\InheritanceExample\InheritanceExample\obj\Debug\net6.0\InheritanceExample.pdb
+F:\1.web development\C# and .Net core\C# program\InheritanceExample\InheritanceExample\obj\Debug\net6.0\InheritanceExample.genruntimeconfig.cache
+F:\1.web development\C# and .Net core\C# program\InheritanceExample\InheritanceExample\obj\Debug\net6.0\ref\InheritanceExample.dll

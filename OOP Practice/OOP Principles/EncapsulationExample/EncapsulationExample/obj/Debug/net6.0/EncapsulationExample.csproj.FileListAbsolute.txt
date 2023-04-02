@@ -1,0 +1,15 @@
+F:\1.web development\C# and .Net core\C# program\EncapsulationExample\EncapsulationExample\bin\Debug\net6.0\EncapsulationExample.exe
+F:\1.web development\C# and .Net core\C# program\EncapsulationExample\EncapsulationExample\bin\Debug\net6.0\EncapsulationExample.deps.json
+F:\1.web development\C# and .Net core\C# program\EncapsulationExample\EncapsulationExample\bin\Debug\net6.0\EncapsulationExample.runtimeconfig.json
+F:\1.web development\C# and .Net core\C# program\EncapsulationExample\EncapsulationExample\bin\Debug\net6.0\EncapsulationExample.dll
+F:\1.web development\C# and .Net core\C# program\EncapsulationExample\EncapsulationExample\bin\Debug\net6.0\EncapsulationExample.pdb
+F:\1.web development\C# and .Net core\C# program\EncapsulationExample\EncapsulationExample\obj\Debug\net6.0\EncapsulationExample.csproj.AssemblyReference.cache
+F:\1.web development\C# and .Net core\C# program\EncapsulationExample\EncapsulationExample\obj\Debug\net6.0\EncapsulationExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\1.web development\C# and .Net core\C# program\EncapsulationExample\EncapsulationExample\obj\Debug\net6.0\EncapsulationExample.AssemblyInfoInputs.cache
+F:\1.web development\C# and .Net core\C# program\EncapsulationExample\EncapsulationExample\obj\Debug\net6.0\EncapsulationExample.AssemblyInfo.cs
+F:\1.web development\C# and .Net core\C# program\EncapsulationExample\EncapsulationExample\obj\Debug\net6.0\EncapsulationExample.csproj.CoreCompileInputs.cache
+F:\1.web development\C# and .Net core\C# program\EncapsulationExample\EncapsulationExample\obj\Debug\net6.0\EncapsulationExample.dll
+F:\1.web development\C# and .Net core\C# program\EncapsulationExample\EncapsulationExample\obj\Debug\net6.0\refint\EncapsulationExample.dll
+F:\1.web development\C# and .Net core\C# program\EncapsulationExample\EncapsulationExample\obj\Debug\net6.0\EncapsulationExample.pdb
+F:\1.web development\C# and .Net core\C# program\EncapsulationExample\EncapsulationExample\obj\Debug\net6.0\EncapsulationExample.genruntimeconfig.cache
+F:\1.web development\C# and .Net core\C# program\EncapsulationExample\EncapsulationExample\obj\Debug\net6.0\ref\EncapsulationExample.dll
