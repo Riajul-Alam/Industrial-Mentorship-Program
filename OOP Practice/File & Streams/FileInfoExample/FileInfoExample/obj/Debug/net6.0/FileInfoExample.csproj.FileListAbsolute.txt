@@ -1,0 +1,15 @@
+F:\1.web development\C# and .Net core\C# program\FileInfoExample\FileInfoExample\bin\Debug\net6.0\FileInfoExample.exe
+F:\1.web development\C# and .Net core\C# program\FileInfoExample\FileInfoExample\bin\Debug\net6.0\FileInfoExample.deps.json
+F:\1.web development\C# and .Net core\C# program\FileInfoExample\FileInfoExample\bin\Debug\net6.0\FileInfoExample.runtimeconfig.json
+F:\1.web development\C# and .Net core\C# program\FileInfoExample\FileInfoExample\bin\Debug\net6.0\FileInfoExample.dll
+F:\1.web development\C# and .Net core\C# program\FileInfoExample\FileInfoExample\bin\Debug\net6.0\FileInfoExample.pdb
+F:\1.web development\C# and .Net core\C# program\FileInfoExample\FileInfoExample\obj\Debug\net6.0\FileInfoExample.csproj.AssemblyReference.cache
+F:\1.web development\C# and .Net core\C# program\FileInfoExample\FileInfoExample\obj\Debug\net6.0\FileInfoExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\1.web development\C# and .Net core\C# program\FileInfoExample\FileInfoExample\obj\Debug\net6.0\FileInfoExample.AssemblyInfoInputs.cache
+F:\1.web development\C# and .Net core\C# program\FileInfoExample\FileInfoExample\obj\Debug\net6.0\FileInfoExample.AssemblyInfo.cs
+F:\1.web development\C# and .Net core\C# program\FileInfoExample\FileInfoExample\obj\Debug\net6.0\FileInfoExample.csproj.CoreCompileInputs.cache
+F:\1.web development\C# and .Net core\C# program\FileInfoExample\FileInfoExample\obj\Debug\net6.0\FileInfoExample.dll
+F:\1.web development\C# and .Net core\C# program\FileInfoExample\FileInfoExample\obj\Debug\net6.0\refint\FileInfoExample.dll
+F:\1.web development\C# and .Net core\C# program\FileInfoExample\FileInfoExample\obj\Debug\net6.0\FileInfoExample.pdb
+F:\1.web development\C# and .Net core\C# program\FileInfoExample\FileInfoExample\obj\Debug\net6.0\FileInfoExample.genruntimeconfig.cache
+F:\1.web development\C# and .Net core\C# program\FileInfoExample\FileInfoExample\obj\Debug\net6.0\ref\FileInfoExample.dll

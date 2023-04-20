@@ -1,0 +1,15 @@
+F:\1.web development\C# and .Net core\C# program\DirectoryClassExample\DirectoryClassExample\bin\Debug\net6.0\DirectoryClassExample.exe
+F:\1.web development\C# and .Net core\C# program\DirectoryClassExample\DirectoryClassExample\bin\Debug\net6.0\DirectoryClassExample.deps.json
+F:\1.web development\C# and .Net core\C# program\DirectoryClassExample\DirectoryClassExample\bin\Debug\net6.0\DirectoryClassExample.runtimeconfig.json
+F:\1.web development\C# and .Net core\C# program\DirectoryClassExample\DirectoryClassExample\bin\Debug\net6.0\DirectoryClassExample.dll
+F:\1.web development\C# and .Net core\C# program\DirectoryClassExample\DirectoryClassExample\bin\Debug\net6.0\DirectoryClassExample.pdb
+F:\1.web development\C# and .Net core\C# program\DirectoryClassExample\DirectoryClassExample\obj\Debug\net6.0\DirectoryClassExample.csproj.AssemblyReference.cache
+F:\1.web development\C# and .Net core\C# program\DirectoryClassExample\DirectoryClassExample\obj\Debug\net6.0\DirectoryClassExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\1.web development\C# and .Net core\C# program\DirectoryClassExample\DirectoryClassExample\obj\Debug\net6.0\DirectoryClassExample.AssemblyInfoInputs.cache
+F:\1.web development\C# and .Net core\C# program\DirectoryClassExample\DirectoryClassExample\obj\Debug\net6.0\DirectoryClassExample.AssemblyInfo.cs
+F:\1.web development\C# and .Net core\C# program\DirectoryClassExample\DirectoryClassExample\obj\Debug\net6.0\DirectoryClassExample.csproj.CoreCompileInputs.cache
+F:\1.web development\C# and .Net core\C# program\DirectoryClassExample\DirectoryClassExample\obj\Debug\net6.0\DirectoryClassExample.dll
+F:\1.web development\C# and .Net core\C# program\DirectoryClassExample\DirectoryClassExample\obj\Debug\net6.0\refint\DirectoryClassExample.dll
+F:\1.web development\C# and .Net core\C# program\DirectoryClassExample\DirectoryClassExample\obj\Debug\net6.0\DirectoryClassExample.pdb
+F:\1.web development\C# and .Net core\C# program\DirectoryClassExample\DirectoryClassExample\obj\Debug\net6.0\DirectoryClassExample.genruntimeconfig.cache
+F:\1.web development\C# and .Net core\C# program\DirectoryClassExample\DirectoryClassExample\obj\Debug\net6.0\ref\DirectoryClassExample.dll

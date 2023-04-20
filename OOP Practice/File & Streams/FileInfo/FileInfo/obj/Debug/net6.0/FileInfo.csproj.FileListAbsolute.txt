@@ -1,0 +1,15 @@
+F:\1.web development\C# and .Net core\C# program\FileInfo\FileInfo\bin\Debug\net6.0\FileInfo.exe
+F:\1.web development\C# and .Net core\C# program\FileInfo\FileInfo\bin\Debug\net6.0\FileInfo.deps.json
+F:\1.web development\C# and .Net core\C# program\FileInfo\FileInfo\bin\Debug\net6.0\FileInfo.runtimeconfig.json
+F:\1.web development\C# and .Net core\C# program\FileInfo\FileInfo\bin\Debug\net6.0\FileInfo.dll
+F:\1.web development\C# and .Net core\C# program\FileInfo\FileInfo\bin\Debug\net6.0\FileInfo.pdb
+F:\1.web development\C# and .Net core\C# program\FileInfo\FileInfo\obj\Debug\net6.0\FileInfo.csproj.AssemblyReference.cache
+F:\1.web development\C# and .Net core\C# program\FileInfo\FileInfo\obj\Debug\net6.0\FileInfo.GeneratedMSBuildEditorConfig.editorconfig
+F:\1.web development\C# and .Net core\C# program\FileInfo\FileInfo\obj\Debug\net6.0\FileInfo.AssemblyInfoInputs.cache
+F:\1.web development\C# and .Net core\C# program\FileInfo\FileInfo\obj\Debug\net6.0\FileInfo.AssemblyInfo.cs
+F:\1.web development\C# and .Net core\C# program\FileInfo\FileInfo\obj\Debug\net6.0\FileInfo.csproj.CoreCompileInputs.cache
+F:\1.web development\C# and .Net core\C# program\FileInfo\FileInfo\obj\Debug\net6.0\FileInfo.dll
+F:\1.web development\C# and .Net core\C# program\FileInfo\FileInfo\obj\Debug\net6.0\refint\FileInfo.dll
+F:\1.web development\C# and .Net core\C# program\FileInfo\FileInfo\obj\Debug\net6.0\FileInfo.pdb
+F:\1.web development\C# and .Net core\C# program\FileInfo\FileInfo\obj\Debug\net6.0\FileInfo.genruntimeconfig.cache
+F:\1.web development\C# and .Net core\C# program\FileInfo\FileInfo\obj\Debug\net6.0\ref\FileInfo.dll
