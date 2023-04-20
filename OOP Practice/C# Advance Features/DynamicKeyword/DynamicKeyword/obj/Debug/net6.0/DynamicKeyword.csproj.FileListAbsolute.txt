@@ -1,0 +1,15 @@
+F:\1.web development\C# and .Net core\C# program\DynamicKeyword\DynamicKeyword\bin\Debug\net6.0\DynamicKeyword.exe
+F:\1.web development\C# and .Net core\C# program\DynamicKeyword\DynamicKeyword\bin\Debug\net6.0\DynamicKeyword.deps.json
+F:\1.web development\C# and .Net core\C# program\DynamicKeyword\DynamicKeyword\bin\Debug\net6.0\DynamicKeyword.runtimeconfig.json
+F:\1.web development\C# and .Net core\C# program\DynamicKeyword\DynamicKeyword\bin\Debug\net6.0\DynamicKeyword.dll
+F:\1.web development\C# and .Net core\C# program\DynamicKeyword\DynamicKeyword\bin\Debug\net6.0\DynamicKeyword.pdb
+F:\1.web development\C# and .Net core\C# program\DynamicKeyword\DynamicKeyword\obj\Debug\net6.0\DynamicKeyword.csproj.AssemblyReference.cache
+F:\1.web development\C# and .Net core\C# program\DynamicKeyword\DynamicKeyword\obj\Debug\net6.0\DynamicKeyword.GeneratedMSBuildEditorConfig.editorconfig
+F:\1.web development\C# and .Net core\C# program\DynamicKeyword\DynamicKeyword\obj\Debug\net6.0\DynamicKeyword.AssemblyInfoInputs.cache
+F:\1.web development\C# and .Net core\C# program\DynamicKeyword\DynamicKeyword\obj\Debug\net6.0\DynamicKeyword.AssemblyInfo.cs
+F:\1.web development\C# and .Net core\C# program\DynamicKeyword\DynamicKeyword\obj\Debug\net6.0\DynamicKeyword.csproj.CoreCompileInputs.cache
+F:\1.web development\C# and .Net core\C# program\DynamicKeyword\DynamicKeyword\obj\Debug\net6.0\DynamicKeyword.dll
+F:\1.web development\C# and .Net core\C# program\DynamicKeyword\DynamicKeyword\obj\Debug\net6.0\refint\DynamicKeyword.dll
+F:\1.web development\C# and .Net core\C# program\DynamicKeyword\DynamicKeyword\obj\Debug\net6.0\DynamicKeyword.pdb
+F:\1.web development\C# and .Net core\C# program\DynamicKeyword\DynamicKeyword\obj\Debug\net6.0\DynamicKeyword.genruntimeconfig.cache
+F:\1.web development\C# and .Net core\C# program\DynamicKeyword\DynamicKeyword\obj\Debug\net6.0\ref\DynamicKeyword.dll

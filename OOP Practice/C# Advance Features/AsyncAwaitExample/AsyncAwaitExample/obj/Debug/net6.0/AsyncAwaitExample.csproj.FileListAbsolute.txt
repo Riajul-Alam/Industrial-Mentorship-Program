@@ -1,0 +1,15 @@
+F:\1.web development\C# and .Net core\C# program\AsyncAwaitExample\AsyncAwaitExample\bin\Debug\net6.0\AsyncAwaitExample.exe
+F:\1.web development\C# and .Net core\C# program\AsyncAwaitExample\AsyncAwaitExample\bin\Debug\net6.0\AsyncAwaitExample.deps.json
+F:\1.web development\C# and .Net core\C# program\AsyncAwaitExample\AsyncAwaitExample\bin\Debug\net6.0\AsyncAwaitExample.runtimeconfig.json
+F:\1.web development\C# and .Net core\C# program\AsyncAwaitExample\AsyncAwaitExample\bin\Debug\net6.0\AsyncAwaitExample.dll
+F:\1.web development\C# and .Net core\C# program\AsyncAwaitExample\AsyncAwaitExample\bin\Debug\net6.0\AsyncAwaitExample.pdb
+F:\1.web development\C# and .Net core\C# program\AsyncAwaitExample\AsyncAwaitExample\obj\Debug\net6.0\AsyncAwaitExample.csproj.AssemblyReference.cache
+F:\1.web development\C# and .Net core\C# program\AsyncAwaitExample\AsyncAwaitExample\obj\Debug\net6.0\AsyncAwaitExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\1.web development\C# and .Net core\C# program\AsyncAwaitExample\AsyncAwaitExample\obj\Debug\net6.0\AsyncAwaitExample.AssemblyInfoInputs.cache
+F:\1.web development\C# and .Net core\C# program\AsyncAwaitExample\AsyncAwaitExample\obj\Debug\net6.0\AsyncAwaitExample.AssemblyInfo.cs
+F:\1.web development\C# and .Net core\C# program\AsyncAwaitExample\AsyncAwaitExample\obj\Debug\net6.0\AsyncAwaitExample.csproj.CoreCompileInputs.cache
+F:\1.web development\C# and .Net core\C# program\AsyncAwaitExample\AsyncAwaitExample\obj\Debug\net6.0\AsyncAwaitExample.dll
+F:\1.web development\C# and .Net core\C# program\AsyncAwaitExample\AsyncAwaitExample\obj\Debug\net6.0\refint\AsyncAwaitExample.dll
+F:\1.web development\C# and .Net core\C# program\AsyncAwaitExample\AsyncAwaitExample\obj\Debug\net6.0\AsyncAwaitExample.pdb
+F:\1.web development\C# and .Net core\C# program\AsyncAwaitExample\AsyncAwaitExample\obj\Debug\net6.0\AsyncAwaitExample.genruntimeconfig.cache
+F:\1.web development\C# and .Net core\C# program\AsyncAwaitExample\AsyncAwaitExample\obj\Debug\net6.0\ref\AsyncAwaitExample.dll

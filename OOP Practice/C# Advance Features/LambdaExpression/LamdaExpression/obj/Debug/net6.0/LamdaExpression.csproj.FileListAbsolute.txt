@@ -1,0 +1,15 @@
+F:\1.web development\C# and .Net core\C# program\LamdaExpression\LamdaExpression\bin\Debug\net6.0\LamdaExpression.exe
+F:\1.web development\C# and .Net core\C# program\LamdaExpression\LamdaExpression\bin\Debug\net6.0\LamdaExpression.deps.json
+F:\1.web development\C# and .Net core\C# program\LamdaExpression\LamdaExpression\bin\Debug\net6.0\LamdaExpression.runtimeconfig.json
+F:\1.web development\C# and .Net core\C# program\LamdaExpression\LamdaExpression\bin\Debug\net6.0\LamdaExpression.dll
+F:\1.web development\C# and .Net core\C# program\LamdaExpression\LamdaExpression\bin\Debug\net6.0\LamdaExpression.pdb
+F:\1.web development\C# and .Net core\C# program\LamdaExpression\LamdaExpression\obj\Debug\net6.0\LamdaExpression.csproj.AssemblyReference.cache
+F:\1.web development\C# and .Net core\C# program\LamdaExpression\LamdaExpression\obj\Debug\net6.0\LamdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+F:\1.web development\C# and .Net core\C# program\LamdaExpression\LamdaExpression\obj\Debug\net6.0\LamdaExpression.AssemblyInfoInputs.cache
+F:\1.web development\C# and .Net core\C# program\LamdaExpression\LamdaExpression\obj\Debug\net6.0\LamdaExpression.AssemblyInfo.cs
+F:\1.web development\C# and .Net core\C# program\LamdaExpression\LamdaExpression\obj\Debug\net6.0\LamdaExpression.csproj.CoreCompileInputs.cache
+F:\1.web development\C# and .Net core\C# program\LamdaExpression\LamdaExpression\obj\Debug\net6.0\LamdaExpression.dll
+F:\1.web development\C# and .Net core\C# program\LamdaExpression\LamdaExpression\obj\Debug\net6.0\refint\LamdaExpression.dll
+F:\1.web development\C# and .Net core\C# program\LamdaExpression\LamdaExpression\obj\Debug\net6.0\LamdaExpression.pdb
+F:\1.web development\C# and .Net core\C# program\LamdaExpression\LamdaExpression\obj\Debug\net6.0\LamdaExpression.genruntimeconfig.cache
+F:\1.web development\C# and .Net core\C# program\LamdaExpression\LamdaExpression\obj\Debug\net6.0\ref\LamdaExpression.dll

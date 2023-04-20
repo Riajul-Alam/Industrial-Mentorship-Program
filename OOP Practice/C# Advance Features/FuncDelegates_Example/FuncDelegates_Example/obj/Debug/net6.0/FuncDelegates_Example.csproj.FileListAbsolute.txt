@@ -1,0 +1,15 @@
+F:\1.web development\C# and .Net core\C# program\FuncDelegates_Example\FuncDelegates_Example\bin\Debug\net6.0\FuncDelegates_Example.exe
+F:\1.web development\C# and .Net core\C# program\FuncDelegates_Example\FuncDelegates_Example\bin\Debug\net6.0\FuncDelegates_Example.deps.json
+F:\1.web development\C# and .Net core\C# program\FuncDelegates_Example\FuncDelegates_Example\bin\Debug\net6.0\FuncDelegates_Example.runtimeconfig.json
+F:\1.web development\C# and .Net core\C# program\FuncDelegates_Example\FuncDelegates_Example\bin\Debug\net6.0\FuncDelegates_Example.dll
+F:\1.web development\C# and .Net core\C# program\FuncDelegates_Example\FuncDelegates_Example\bin\Debug\net6.0\FuncDelegates_Example.pdb
+F:\1.web development\C# and .Net core\C# program\FuncDelegates_Example\FuncDelegates_Example\obj\Debug\net6.0\FuncDelegates_Example.csproj.AssemblyReference.cache
+F:\1.web development\C# and .Net core\C# program\FuncDelegates_Example\FuncDelegates_Example\obj\Debug\net6.0\FuncDelegates_Example.GeneratedMSBuildEditorConfig.editorconfig
+F:\1.web development\C# and .Net core\C# program\FuncDelegates_Example\FuncDelegates_Example\obj\Debug\net6.0\FuncDelegates_Example.AssemblyInfoInputs.cache
+F:\1.web development\C# and .Net core\C# program\FuncDelegates_Example\FuncDelegates_Example\obj\Debug\net6.0\FuncDelegates_Example.AssemblyInfo.cs
+F:\1.web development\C# and .Net core\C# program\FuncDelegates_Example\FuncDelegates_Example\obj\Debug\net6.0\FuncDelegates_Example.csproj.CoreCompileInputs.cache
+F:\1.web development\C# and .Net core\C# program\FuncDelegates_Example\FuncDelegates_Example\obj\Debug\net6.0\FuncDelegates_Example.dll
+F:\1.web development\C# and .Net core\C# program\FuncDelegates_Example\FuncDelegates_Example\obj\Debug\net6.0\refint\FuncDelegates_Example.dll
+F:\1.web development\C# and .Net core\C# program\FuncDelegates_Example\FuncDelegates_Example\obj\Debug\net6.0\FuncDelegates_Example.pdb
+F:\1.web development\C# and .Net core\C# program\FuncDelegates_Example\FuncDelegates_Example\obj\Debug\net6.0\FuncDelegates_Example.genruntimeconfig.cache
+F:\1.web development\C# and .Net core\C# program\FuncDelegates_Example\FuncDelegates_Example\obj\Debug\net6.0\ref\FuncDelegates_Example.dll

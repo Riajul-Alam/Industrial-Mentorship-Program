@@ -1,0 +1,15 @@
+F:\1.web development\C# and .Net core\C# program\DelegatesExample\DelegatesExample\bin\Debug\net6.0\DelegatesExample.exe
+F:\1.web development\C# and .Net core\C# program\DelegatesExample\DelegatesExample\bin\Debug\net6.0\DelegatesExample.deps.json
+F:\1.web development\C# and .Net core\C# program\DelegatesExample\DelegatesExample\bin\Debug\net6.0\DelegatesExample.runtimeconfig.json
+F:\1.web development\C# and .Net core\C# program\DelegatesExample\DelegatesExample\bin\Debug\net6.0\DelegatesExample.dll
+F:\1.web development\C# and .Net core\C# program\DelegatesExample\DelegatesExample\bin\Debug\net6.0\DelegatesExample.pdb
+F:\1.web development\C# and .Net core\C# program\DelegatesExample\DelegatesExample\obj\Debug\net6.0\DelegatesExample.csproj.AssemblyReference.cache
+F:\1.web development\C# and .Net core\C# program\DelegatesExample\DelegatesExample\obj\Debug\net6.0\DelegatesExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\1.web development\C# and .Net core\C# program\DelegatesExample\DelegatesExample\obj\Debug\net6.0\DelegatesExample.AssemblyInfoInputs.cache
+F:\1.web development\C# and .Net core\C# program\DelegatesExample\DelegatesExample\obj\Debug\net6.0\DelegatesExample.AssemblyInfo.cs
+F:\1.web development\C# and .Net core\C# program\DelegatesExample\DelegatesExample\obj\Debug\net6.0\DelegatesExample.csproj.CoreCompileInputs.cache
+F:\1.web development\C# and .Net core\C# program\DelegatesExample\DelegatesExample\obj\Debug\net6.0\DelegatesExample.dll
+F:\1.web development\C# and .Net core\C# program\DelegatesExample\DelegatesExample\obj\Debug\net6.0\refint\DelegatesExample.dll
+F:\1.web development\C# and .Net core\C# program\DelegatesExample\DelegatesExample\obj\Debug\net6.0\DelegatesExample.pdb
+F:\1.web development\C# and .Net core\C# program\DelegatesExample\DelegatesExample\obj\Debug\net6.0\DelegatesExample.genruntimeconfig.cache
+F:\1.web development\C# and .Net core\C# program\DelegatesExample\DelegatesExample\obj\Debug\net6.0\ref\DelegatesExample.dll
