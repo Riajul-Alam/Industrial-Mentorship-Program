@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\1.web development\\C# and .Net core\\C# program\\ExtensionMethodExample\\ExtensionMethodExample\\ExtensionMethodExample.csproj": {}
+    "F:\\1.web development\\Industrial-Mentorship-Program\\OOP Practice\\C# Advance Features\\ExtensionMethodExample\\ExtensionMethodExample\\ExtensionMethodExample.csproj": {}
   },
   "projects": {
-    "F:\\1.web development\\C# and .Net core\\C# program\\ExtensionMethodExample\\ExtensionMethodExample\\ExtensionMethodExample.csproj": {
+    "F:\\1.web development\\Industrial-Mentorship-Program\\OOP Practice\\C# Advance Features\\ExtensionMethodExample\\ExtensionMethodExample\\ExtensionMethodExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\1.web development\\C# and .Net core\\C# program\\ExtensionMethodExample\\ExtensionMethodExample\\ExtensionMethodExample.csproj",
+        "projectUniqueName": "F:\\1.web development\\Industrial-Mentorship-Program\\OOP Practice\\C# Advance Features\\ExtensionMethodExample\\ExtensionMethodExample\\ExtensionMethodExample.csproj",
         "projectName": "ExtensionMethodExample",
-        "projectPath": "F:\\1.web development\\C# and .Net core\\C# program\\ExtensionMethodExample\\ExtensionMethodExample\\ExtensionMethodExample.csproj",
+        "projectPath": "F:\\1.web development\\Industrial-Mentorship-Program\\OOP Practice\\C# Advance Features\\ExtensionMethodExample\\ExtensionMethodExample\\ExtensionMethodExample.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "F:\\1.web development\\C# and .Net core\\C# program\\ExtensionMethodExample\\ExtensionMethodExample\\obj\\",
+        "outputPath": "F:\\1.web development\\Industrial-Mentorship-Program\\OOP Practice\\C# Advance Features\\ExtensionMethodExample\\ExtensionMethodExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

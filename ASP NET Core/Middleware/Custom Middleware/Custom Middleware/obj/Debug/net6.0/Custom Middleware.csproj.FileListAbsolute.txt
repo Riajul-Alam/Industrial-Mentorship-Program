@@ -1,0 +1,26 @@
+F:\1.web development\C# and .Net core\C# program\Custom Middleware\Custom Middleware\bin\Debug\net6.0\appsettings.Development.json
+F:\1.web development\C# and .Net core\C# program\Custom Middleware\Custom Middleware\bin\Debug\net6.0\appsettings.json
+F:\1.web development\C# and .Net core\C# program\Custom Middleware\Custom Middleware\bin\Debug\net6.0\Custom Middleware.exe
+F:\1.web development\C# and .Net core\C# program\Custom Middleware\Custom Middleware\bin\Debug\net6.0\Custom Middleware.deps.json
+F:\1.web development\C# and .Net core\C# program\Custom Middleware\Custom Middleware\bin\Debug\net6.0\Custom Middleware.runtimeconfig.json
+F:\1.web development\C# and .Net core\C# program\Custom Middleware\Custom Middleware\bin\Debug\net6.0\Custom Middleware.dll
+F:\1.web development\C# and .Net core\C# program\Custom Middleware\Custom Middleware\bin\Debug\net6.0\Custom Middleware.pdb
+F:\1.web development\C# and .Net core\C# program\Custom Middleware\Custom Middleware\obj\Debug\net6.0\Custom Middleware.csproj.AssemblyReference.cache
+F:\1.web development\C# and .Net core\C# program\Custom Middleware\Custom Middleware\obj\Debug\net6.0\Custom Middleware.GeneratedMSBuildEditorConfig.editorconfig
+F:\1.web development\C# and .Net core\C# program\Custom Middleware\Custom Middleware\obj\Debug\net6.0\Custom Middleware.AssemblyInfoInputs.cache
+F:\1.web development\C# and .Net core\C# program\Custom Middleware\Custom Middleware\obj\Debug\net6.0\Custom Middleware.AssemblyInfo.cs
+F:\1.web development\C# and .Net core\C# program\Custom Middleware\Custom Middleware\obj\Debug\net6.0\Custom Middleware.csproj.CoreCompileInputs.cache
+F:\1.web development\C# and .Net core\C# program\Custom Middleware\Custom Middleware\obj\Debug\net6.0\Custom Middleware.MvcApplicationPartsAssemblyInfo.cache
+F:\1.web development\C# and .Net core\C# program\Custom Middleware\Custom Middleware\obj\Debug\net6.0\staticwebassets\msbuild.Custom Middleware.Microsoft.AspNetCore.StaticWebAssets.props
+F:\1.web development\C# and .Net core\C# program\Custom Middleware\Custom Middleware\obj\Debug\net6.0\staticwebassets\msbuild.build.Custom Middleware.props
+F:\1.web development\C# and .Net core\C# program\Custom Middleware\Custom Middleware\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Custom Middleware.props
+F:\1.web development\C# and .Net core\C# program\Custom Middleware\Custom Middleware\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Custom Middleware.props
+F:\1.web development\C# and .Net core\C# program\Custom Middleware\Custom Middleware\obj\Debug\net6.0\staticwebassets.pack.json
+F:\1.web development\C# and .Net core\C# program\Custom Middleware\Custom Middleware\obj\Debug\net6.0\staticwebassets.build.json
+F:\1.web development\C# and .Net core\C# program\Custom Middleware\Custom Middleware\obj\Debug\net6.0\staticwebassets.development.json
+F:\1.web development\C# and .Net core\C# program\Custom Middleware\Custom Middleware\obj\Debug\net6.0\scopedcss\bundle\Custom Middleware.styles.css
+F:\1.web development\C# and .Net core\C# program\Custom Middleware\Custom Middleware\obj\Debug\net6.0\Custom Middleware.dll
+F:\1.web development\C# and .Net core\C# program\Custom Middleware\Custom Middleware\obj\Debug\net6.0\refint\Custom Middleware.dll
+F:\1.web development\C# and .Net core\C# program\Custom Middleware\Custom Middleware\obj\Debug\net6.0\Custom Middleware.pdb
+F:\1.web development\C# and .Net core\C# program\Custom Middleware\Custom Middleware\obj\Debug\net6.0\Custom Middleware.genruntimeconfig.cache
+F:\1.web development\C# and .Net core\C# program\Custom Middleware\Custom Middleware\obj\Debug\net6.0\ref\Custom Middleware.dll
