@@ -1,2 +1,2 @@
 # Industrial-Mentorship-Program
-C sharp and .Net framework
+C# and ASP .NET Core framework (In Progress)
