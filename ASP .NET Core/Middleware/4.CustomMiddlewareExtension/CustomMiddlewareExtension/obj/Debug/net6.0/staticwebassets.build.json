@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LyKpdWh0dwHrAosRVyOwlGntIKWVlAmWCkDUYRJyOGg=",
+  "Source": "CustomMiddlewareExtension",
+  "BasePath": "_content/CustomMiddlewareExtension",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
