@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Map_MapGet_MapPost.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Map_MapGet_MapPost.props" />
+</Project>
